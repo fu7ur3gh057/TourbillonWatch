@@ -10,6 +10,7 @@
 .DS_Store
 statisfiles
 static
+media
 mediafiles
 client/node_modules
 # Byte-compiled / optimized / DLL files
